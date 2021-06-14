@@ -2,5 +2,5 @@ server:
 	npx nodos server
 
 test:
-	make server
+	npm install
 	npm -s test
